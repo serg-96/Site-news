@@ -1,0 +1,49 @@
+
+.head-block{
+    height:200px;
+    background: url(../image/thes_2.png) left center no-repeat;
+
+}
+.blog-post {
+    margin-top: 10px;
+}
+
+.top-menu{
+    background:#daf2fe;
+}
+.top-menu ul{
+    padding-left:0;
+    margin-bottom:0;
+}
+.top-menu li{
+    display:inline-block;
+    margin-left:10px;
+    padding:3px 10px;
+}
+
+.footer {
+    background: #f4f4f4;
+}
+.date {
+    text-align: right;
+}
+.date>a {
+    padding: 0 12px;
+}
+
+.hTitli{
+    margin-top: 0px;
+}
+.news{
+    margin-top: 5px;
+    border-radius: 1px solid black;
+}
+
+.full_news>p, .p-16>p {
+    font-size: 17px;
+    line-height: 150%;
+}
+.dates {
+    margin-bottom: 10px;
+}
+
